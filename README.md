@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh Quang Lieu</h1>
-<h3 align="center">A Fullstack Developer from Houston, Texas. I graduated from the University of Houston with Bachelor's degree in Biochemistry and minor in Mathematics. I'm currently a Master's student at Georgia Tech</h3>
+<h3 align="center">A Fullstack Developer from Houston, Texas. I graduated from the University of Houston with Bachelor's degree in Biochemistry and minor in Mathematics. I'm currently pursuing a Master's degree in Computer Science at Georgia Tech.</h3>
 
 - I'm currently working on [my portfolio website](https://github.com/MinhhQuangg/My-website)
 
